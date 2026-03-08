@@ -1,0 +1,6 @@
+crea un ambiente virtuale di python
+installa in pacchetto docling (https://www.docling.ai/ )
+scrivi un programma pyhton che legge un file pdf 
+estrae i contenuti dal file pdf usando la libreria docling
+scrive un file pdf con i contenuti estratti
+la user interface del programma deve avere la possibilità di selezionare il file pdf da leggere e definire nome del file pdf da produrre

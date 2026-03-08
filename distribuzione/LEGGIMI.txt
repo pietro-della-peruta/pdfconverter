@@ -1,0 +1,75 @@
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║              PDF CONVERTER CON DOCLING                       ║
+║              Versione 1.0 - macOS                            ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+
+📦 INSTALLAZIONE RAPIDA
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. Apri il Terminale (Applicazioni > Utility > Terminale)
+
+2. Trascina il file "installa.sh" nella finestra del Terminale
+   (oppure digita: cd /percorso/a/questa/cartella && ./installa.sh)
+
+3. Premi INVIO e attendi il completamento (5-10 minuti)
+
+
+🚀 AVVIO DELL'APPLICAZIONE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Dopo l'installazione:
+
+→ Fai DOPPIO CLIC su "PDFConverter.command"
+
+L'applicazione si aprirà e potrai:
+  • Selezionare un file PDF da convertire
+  • Scegliere dove salvare il risultato
+  • Cliccare su "Converti PDF"
+
+
+📄 COSA FA L'APPLICAZIONE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+L'applicazione estrae il testo da un PDF e crea:
+
+✓ Un nuovo PDF pulito con il testo estratto
+✓ Un file Markdown (.md) con il contenuto
+✓ Un file JSON con i metadati del documento
+
+
+⚠️  NOTA IMPORTANTE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Il PDF generato contiene SOLO il testo estratto, non include:
+  • Immagini
+  • Grafici
+  • Formattazione originale complessa
+
+È ideale per estrarre e riformattare il contenuto testuale.
+
+
+🔧 REQUISITI
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+• macOS 10.15 (Catalina) o superiore
+• Python 3.8 o superiore (installato automaticamente su macOS)
+• 4 GB RAM (8 GB consigliati)
+• 3 GB spazio libero su disco
+
+
+❓ PROBLEMI?
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Consulta il file README_DISTRIBUZIONE.md per:
+  • Istruzioni dettagliate
+  • Risoluzione problemi
+  • Creazione applicazione .app standalone
+
+
+═══════════════════════════════════════════════════════════════
+
+Per maggiori informazioni: https://www.docling.ai/
+
+═══════════════════════════════════════════════════════════════
