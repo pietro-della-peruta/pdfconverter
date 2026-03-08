@@ -36,12 +36,11 @@ env/
 .DS_Store
 Thumbs.db
 
-# Output files
-*.pdf
-*.md
-*.json
+# Output files generati dalla conversione
+*_converted.pdf
 !README.md
-!requirements.txt
+!distribuzione/README_DISTRIBUZIONE.md
+!distribuzione/*.md
 
 # Logs
 *.log
